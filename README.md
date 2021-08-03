@@ -1,10 +1,3 @@
-### Hi~! I'm Sanghyun Park :satisfied::wave:
-<br>
+### Hi there 😸
 
-Currently, I'm a just student who is trying to develop myself into a person that creates value-added in the world!  
-<br>
-
-:pushpin: My Info
-* Double Major: Business and Data Science (from Hanyang University)
-  * 경영학부 / 빅데이터융합전공
-* Contact: 2dend0713@gmail.com
+[![Sanghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dend0713)](https://github.com/anuraghazra/github-readme-stats)

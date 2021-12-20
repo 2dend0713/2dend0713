@@ -1,28 +1,14 @@
-# Hi!👋 Welcome to Sanghyun's Profile 😁
+# Hi👋 I'm Sanghyun Park😁
 
->   "I've always recognized myself and NEVER lost the passion of learning more data, information, and knowledge." It is my ONLY attitude about self-development, and someday I wish I have THE WISDOM to structurize my own vision. 🔥
-
- 
+> I know **success consists of getting up just one more time than I fail**. So, I never stop developing myself before reaching my goal.
 
 <br>
 
-## Comming soon... 😋
-
->   will be updated regarding my projects, TIL, etc...
+(need to insert a slide of introducing myself)
 
 
 
 <br>
 
-### 🎓 Education
+<em>End</em>
 
-1.   a bachelor's degree from Hanyang Univ. (dual major)
-     *   Business Administration
-     *   Bigdata Science
-2.   Samsung Software Academy For Youth(SSAFY)
-
-
-
-<br>
-
-<em>end</em>

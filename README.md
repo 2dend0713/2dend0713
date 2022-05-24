@@ -1,14 +1,9 @@
-# Hi👋 I'm Sanghyun Park😁
+# Hi!👋
 
-> I know **success consists of getting up just one more time than I fail**. So, I never stop developing myself before reaching my goal.
+> I'm Sanghyun Park, a FE developer studying various things to communicate in consideration of the context!!
 
-<br>
+<br />
 
-(need to insert a slide of introducing myself)
+<br />
 
-
-
-<br>
-
-End
-
+*End*
